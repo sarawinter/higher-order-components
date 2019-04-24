@@ -1,0 +1,11 @@
+
+.villain h2 {
+    font-family: 'Nosifer';
+}
+
+.villain img {
+    max-width: 250px;
+    float: right;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}

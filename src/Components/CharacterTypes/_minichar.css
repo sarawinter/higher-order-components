@@ -1,0 +1,32 @@
+
+.char-text {
+    color: blue;
+    text-decoration: underline;
+}
+
+.mini-char {
+    position: relative;
+    display: inline-block;
+}
+.mini-info {
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,0.1);
+    position: absolute;
+    z-index: 2;
+    padding: 10px;
+    bottom: 18px;
+    text-align: center;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5)
+}
+.mini-info .mini-img {
+    max-width: 70px;
+    border-radius: 5px;
+    float: none;
+    padding: 0;
+    margin: 0;
+}
+.mini-info h3 {
+    font-size: 14px;
+    margin: 0;
+}

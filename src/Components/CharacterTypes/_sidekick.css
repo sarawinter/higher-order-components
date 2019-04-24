@@ -1,0 +1,11 @@
+
+.sidekick h2 {
+    font-family: 'Keania One';
+}
+
+.sidekick img {
+    max-width: 200px;
+    float: right;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}

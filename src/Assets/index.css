@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Faster+One|Iceland|Keania+One|Lato|Nosifer|UnifrakturCook:700');
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato';
+}
+
+h1, h2, h3 {
+    font-weight: normal;
+}

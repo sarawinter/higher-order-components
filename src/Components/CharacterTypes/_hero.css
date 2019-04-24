@@ -1,0 +1,12 @@
+
+.hero h2 {
+    font-family: 'Iceland';
+    font-size: 30px;
+}
+
+.hero img {
+    max-width: 230px;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
